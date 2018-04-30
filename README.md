@@ -5,7 +5,8 @@ for C++, which enables faster development cycles.
 
 This repo contains a small example notebook showing how to use OpenCV in Xeus.
 It shows how to get the includes to work, and contains a small shim for
-displaying OpenCV images directly in the browser.
+displaying OpenCV images directly in the browser. It demonstrates a nice way
+to give small inline matrices.
 
 To try it out: follow the 
 [Xeus installation directions](https://github.com/QuantStack/xeus), then run the notebook in this
